@@ -29,7 +29,7 @@ jobs:
         
       - name: Install Azion CLI
         run: |
-          curl -o azionlinux https://downloads.azion.com/linux/x86_64/azion
+          curl -o azionlinux https://downloads.azion.com/linux/x86_64/azion-1.20.0
           sudo mv azionlinux /usr/bin/azion
           sudo chmod u+x /usr/bin/azion
 
