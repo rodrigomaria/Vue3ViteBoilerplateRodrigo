@@ -1,25 +1,25 @@
 {
-  "name": "Vue3ViteBoilerplateRodrigo",
-  "bucket": "Vue3ViteBoilerplateRodrigo",
+  "name": "Vue3ViteBoilerplateRodrigo-20240426122003",
+  "bucket": "Vue3ViteBoilerplateRodrigo-20240426122003",
   "preset": "vue",
   "mode": "deliver",
   "env": "production",
-  "prefix": "20240423172034",
+  "prefix": "20240426152117",
   "not-first-run": true,
   "function": {
-    "id": 20590,
+    "id": 21349,
     "name": "__DEFAULT__",
     "file": ".edge/worker.js",
     "args": "./azion/args.json",
-    "instance-id": 20231,
+    "instance-id": 20983,
     "instance-name": "__DEFAULT__"
   },
   "application": {
-    "id": 1713898961,
+    "id": 1714140354,
     "name": "__DEFAULT__"
   },
   "domain": {
-    "id": 1713897628,
+    "id": 1714148917,
     "name": "__DEFAULT__"
   },
   "rt-purge": {
@@ -27,13 +27,13 @@
   },
   "origin": [
     {
-      "origin-id": 126778,
-      "origin-key": "777b1b69-292c-4b67-ba4e-e72a896e1603",
-      "name": "Vue3ViteBoilerplateRodrigo_single"
+      "origin-id": 128492,
+      "origin-key": "57754b69-9f76-4b1a-9a89-c73f29c23ccc",
+      "name": "Vue3ViteBoilerplateRodrigo-20240426122003_single"
     },
     {
-      "origin-id": 126779,
-      "origin-key": "5ae1a66d-ac73-4d6c-9260-27bc243d60f0",
+      "origin-id": 128493,
+      "origin-key": "946213f0-24d6-4569-8f07-e3e1f30b87ed",
       "name": "origin-storage-default"
     }
   ],
@@ -41,15 +41,15 @@
     "created": false,
     "rules": [
       {
-        "id": 237558,
+        "id": 241539,
         "name": "Main_Rule"
       },
       {
-        "id": 237559,
+        "id": 241540,
         "name": "Index_Rewrite_1"
       },
       {
-        "id": 237560,
+        "id": 241541,
         "name": "Index_Rewrite_2"
       }
     ]
